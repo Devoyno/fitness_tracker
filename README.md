@@ -1,10 +1,10 @@
-## Fitness Tracker
+# Fitness Tracker
 
-![screenshot](ss.png);
+![screenshot](ss.png)
 
-# This Workout Trackers uses MongoDB to store and access data for the charts
+## This Workout Trackers uses MongoDB to store and access data for the charts
 
-# This app allows you to do the following:
+## This app allows you to do the following:
 
 * Add exercises to the most recent workout plan
 
