@@ -1,2 +1,4 @@
-# fitness_tracker
-Fitness Tracker
+# Fitness Tracker
+
+![screenshot](ss.png);
+
