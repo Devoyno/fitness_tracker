@@ -14,6 +14,8 @@
 
 * View the total duration of each workout from the past seven workouts on the dashboard
 
+Access functional application @: https://fierce-anchorage-88572.herokuapp.com/?id=6054a232da9eb60015cc9675
+
 
 
 
